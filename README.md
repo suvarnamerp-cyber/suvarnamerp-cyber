@@ -1,3 +1,6 @@
+C:\b2c\B2C_Frontend\Dynamic\B2C\app\pim-hub\masters\PIM-Masters\classification\ProductTypeTab.tsx
+C:\b2c\B2C_Frontend\Dynamic\B2C\app\pim-hub\masters\PIM-Masters\classification\SubCategoryTab.tsx
+
 ---
 
 ### 🔥 GitHub Contribution Graph
